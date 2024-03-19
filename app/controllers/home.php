@@ -1,6 +1,7 @@
 <?php
+//Some testing here
+//echo"home controller";
 
-echo"home controller";
+//require "../app/views/home.view.php";
 
-//require views_path('home');
-
+require views_path('home');
